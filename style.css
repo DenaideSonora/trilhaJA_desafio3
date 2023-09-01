@@ -1,0 +1,92 @@
+body {
+    border-style: double;
+    border-width: 15px;
+    border-radius: 5px;
+}
+
+#img_fundo {
+    background: url("img/img_fundo.jpg");
+    background-size: 100% 100%;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    padding-top: 5%;
+    letter-spacing: 2px;
+    font-size: 40px;
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+}
+
+h2 {
+    padding-top: 5%;
+}
+
+.citacao {
+    text-align: right;
+    line-height: 1.5;
+    padding-top: 7%;
+    padding-right: 13%;
+}
+
+#qualidade {
+    background-color: #f7f7f7;
+    margin-top: -3%;
+    padding: 5%;
+    float: left;
+}
+
+.video {
+    margin-top: 20%; 
+}
+
+.coluna {
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 40%;
+}
+
+#pilares {
+    padding: 5%;
+    margin-top: 5%;
+}
+
+.colunaquatro {
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 15%;
+}
+
+.centralizado {
+    text-align: center;
+}
+
+#fig {
+    width: 30%;
+    padding-top: 3%;
+}
+
+.container {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+.icone {
+    width: 40%;
+}
+
+.rodape {
+    text-align: center;
+    line-height: 0.4;
+    font-size: 12px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
